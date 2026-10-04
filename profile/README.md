@@ -1,12 +1,12 @@
 # Noks Labs
 
-### Software lab engineering solutions for high-friction vertical problems.
+### Software engineering solutions for high-friction vertical problems.
 
 ---
 
 ## Overview
 
-NoksLabs is a parent company and venture studio. We identify acute operational bottlenecks across specialized industries and build dedicated, high-performance software products to solve them.
+NoksLabs is an engineering lab. We identify acute operational bottlenecks across specialized industries and build dedicated, high-performance software products to solve them.
 
 We do not build generic software. We build deep, domain-specific systems where standard solutions fail.
 
@@ -50,4 +50,4 @@ Problem Discovery  -->  Domain Immersion  -->  Purpose-Built Software  -->  Scal
 
 ---
 
-<sub>&copy; Noks Labs. All rights reserved.</sub>
+<sub>&copy; NoksLabs LTD. All rights reserved.</sub>
