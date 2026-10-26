@@ -1,48 +1,47 @@
-# Noks Labs
+# NoksLabs
 
-### Software engineering solutions for high-friction vertical problems.
+### Vertical AI infrastructure for the moments a business can't get wrong.
 
 ---
 
 ## Overview
 
-NoksLabs is an engineering lab. We identify acute operational bottlenecks across specialized industries and build dedicated, high-performance software products to solve them.
+NoksLabs is a vertical AI infrastructure and software lab. We pick one critical business moment, like a company sale or a production line, and build the software for it end to end.
 
-We do not build generic software. We build deep, domain-specific systems where standard solutions fail.
+Each build covers integration with existing systems, AI that removes manual work, and secure workflows our partners run under their own brand.
+
+**One critical moment at a time.**
 
 ---
 
-## Operating Model
+## How We Build
 
 ```
-Problem Discovery  -->  Domain Immersion  -->  Purpose-Built Software  -->  Scale
+Find the Critical Moment  -->  Build the Vertical Infrastructure  -->  Deploy Under Partner Brands
 ```
 
-- **Vertical Precision**: Focus on complex, underserved industry workflows where operational friction is high.
-- **Independent Architecture**: Each product is engineered as an autonomous, high-reliability platform built for its domain.
-- **Zero-Speculation Design**: Built strictly around verified practitioner pain points and measurable economic value.
+- **Find the critical moment**: Identify where a business can't afford mistakes.
+- **Build the vertical infrastructure**: Integrate with existing systems, use one data model for the vertical, and apply AI to the manual work.
+- **Deploy under our partners' brands**: Partners run the product under their own name and domain, in the cloud, in a private cloud, or on-premises.
 
 ---
 
-## Product Areas
+## Products
 
-| Sector                                  | Problem Space                                         | Approach                                   |
-| :-------------------------------------- | :---------------------------------------------------- | :----------------------------------------- |
-| **Vertical Workflows**                  | High-touch coordination and compliance overhead       | Domain-native automation engines           |
-| **Specialized Data Systems**            | Siloed, fragile data transfers in legacy environments | Deterministic ingestion and sync pipelines |
-| **Developer & Platform Infrastructure** | Repetitive operational toil in engineering workflows  | Precision developer tooling                |
+| Product    | What it does                                        | For                                              |
+| :--------- | :-------------------------------------------------- | :----------------------------------------------- |
+| **Legacy** | AI agents that get businesses deal-ready            | M&A advisors, business brokers, fractional CFOs  |
+| **Unit**   | Small AI models trained on real industrial work     | Manufacturers, industrial lines, cells, robots   |
 
----
+**Legacy** is an agentic platform. Its agents pull an owner's data, audit it, and prepare it for buyers. It includes API connections, readiness audits, a secure data room, and migration into the acquirer's systems.
 
-## Principles
-
-- **Signal Over Noise**: Direct solutions for acute pain. No vanity features.
-- **Domain Depth**: Deep understanding of end-user operational realities.
-- **Deterministic Quality**: Resilient architecture designed for mission-critical operations.
+**Unit** records skilled workers doing manual tasks on the factory floor. It then trains small, task-specific models that run at the edge on lines, cells, and robots.
 
 ---
 
-## Contact & Ecosystem
+## Work With Us
+
+We're open to partnerships, pilots, and new verticals.
 
 - **Website**: [nokslabs.com](https://nokslabs.com)
 - **Email**: max@nokslabs.com
@@ -50,4 +49,4 @@ Problem Discovery  -->  Domain Immersion  -->  Purpose-Built Software  -->  Scal
 
 ---
 
-<sub>&copy; NoksLabs LTD. All rights reserved.</sub>
+<sub>&copy; NoksLabs LTD, Nicosia, Cyprus. All rights reserved.</sub>
